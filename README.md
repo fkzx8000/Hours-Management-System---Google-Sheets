@@ -1,5 +1,6 @@
 # Hours Management System - Google Sheets
-
+Teaching Hours Report Form link: [click here]([url](https://docs.google.com/spreadsheets/d/1KD4FOwWDdYto9TgTjI_9p1v5BFbj2PynStKegasdiyo/edit?usp=sharing))
+General Management From link: [click here]([url](https://docs.google.com/spreadsheets/d/1N4JzLvFER2xo3ZiBwZWocnHesZ11fakY0kEyh3DsLqo/edit?usp=sharing))
 ## Overview 🎯📊📋
 
 This system is built using Google Sheets and integrates two types of forms:
