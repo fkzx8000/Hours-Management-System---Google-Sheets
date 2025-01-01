@@ -18,7 +18,7 @@ This system is built using Google Sheets and integrates two types of forms:
 
 ## Teaching Hours Report Form 📝📚🕒
 
-![Teaching Hours Report Example](path/to/image.jpg)
+![Teaching Hours Report Example](TeachingHoursReportForm.jpg)
 
 ### Structure 🧮📊📅
 
@@ -63,7 +63,8 @@ This system is built using Google Sheets and integrates two types of forms:
 ---
 
 ## General Management Form 📊🗂️🗓️
-
+![General Management part 1](GeneralManagementPart1.jpg)
+![General Management Part 2](GeneralManagementPart2.jpg)
 ### Functionality 📋🗂️📈
 
 1. **Date and Monthly Summary:** 🎓📅📊
