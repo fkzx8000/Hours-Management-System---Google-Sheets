@@ -139,7 +139,8 @@ This system is built using Google Sheets and integrates two types of forms:
 
 ---
 
-Feel free to reach out for further details or assistance! ✉️📞💻
+Feel free to reach out for further details or assistance! ✉️💻
+my email is: seller4500@gmail.com
 
 
 
